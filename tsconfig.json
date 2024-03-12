@@ -31,6 +31,6 @@
     "**/*.tsx",
     ".next/types/**/*.ts",
     ".contentlayer/generated"
-  ],
+, "app/posts/[...slug]/page.jsx", "app/page.jsx", "app/layout.jsx", "components/theme-provider.jsx", "components/analytics.jsx", "components/mdx-components.jsx", "components/mode-toggle.jsx", "app/[...slug]/page.jsx", "app/api/hello/route.js"  ],
   "exclude": ["node_modules"]
 }
